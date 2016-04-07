@@ -1,0 +1,16 @@
+lang: ruby
+rvm:
+- 2.2
+branches:
+  only:
+  - doc
+before_install:
+- gem install asciidoctor
+- gem install --pre asciidoctor-pdf
+script:
+- ".travis/build_doc.sh"
+after_success:
+- ".travis/push.sh"
+env:
+  global:
+    secure: N9YC2gzSshFaVvyUOMXB2x/pyI5Riqix3X3MmotN66wKS5Ku7p/qGo4Vp9ThG+IUlKfkw1JCII5tZaPumD5uUpfWRcYDG1gXfr/sCgo52L5kMQMqawEtsP93dF1ooeoElyUGGWga+ZLXFayThifYNc0kKogW4lt2IRGSDWU/d59GA/HdsiKeCARFj/IwRqOAxoUUhwq1YTG08+JVE2DZvP95v4YxrboiwbCRA2w6o5Q0envGZJrWCiZt0SAvxA/TwLzxscpkNOP3xRBmnxiooIOSgDohak/ihS3TGMM5gxqXPdBIDfP/XNX2xINMUHyijrwES2Cd40Pum/62qyke7bbTuob1qMNGaKnsThMgf0DY/KE9Z3qjZAkG3iOEn5QSklLjrI5l7PqfzXX9Rw9bxo41b+4jFwwFtGTdKSWt4ihZ+JZ5MsHU+nrKXT8m1CzJorAeo4YNJyFUdLhPS5LRQ2nS3+jRPq3iQByrTKJ3bHY4oUdsGQVpJdS0gBG7aiq+FVRP6NrWMrrO/w4gm6Tt+GjitEaGq855VfI9T8I2Mc7IyYHeRIEGAv+sPdXUvaEYKaJqoIfi5YKFhB4+tPib4M4MAX+GuTtxEERM76JtXTVifmKqhKkZbieJ20e8UBv7uLFcn3Ra9p0g/cZBxyPl1K3gZTxDKfjPQZ50qoJCrHg=
