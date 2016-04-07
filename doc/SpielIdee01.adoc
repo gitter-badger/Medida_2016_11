@@ -1,0 +1,31 @@
+= Stars Explorers
+
+_Version:_	*1.0*
+
+_Gruppe:_	*11*
+
+_Gruppenname:_	*STeLLARG Games*
+
+
+== Bezeichnung: *Stars Explorers*
+
+== Zielgruppe: *Schüler Klasse 5-9 (Gymnasium Sachsen)*
+
+== Inhalt
+
+In dem interaktiven Lernspiel "Stars Invaders" geht es darum dem Lernenden/Spielenden/Anwender das Universum, insbesondere unser Sonnensystem, näher zu bringen. Der Spieler fliegt dabei mit einem Raumschiff jedes mal durch einen Asteroidenschauer von Körper zu Körper. Auf den Planeten (Körpern) kann/muss der Spieler Fragen beantworten, zu welchen es (teilweise) Hinweise gibt und Belohnungen auf ihn warten. Außerdem wird er mit moralischen Entscheidungen zu kämpfen haben. Fragen, Handeln und Entscheidungen sollen sich auf den Verlauf des Spieles auswirken und durch diese Interaktivität eine gewisse Motivation und Spaß geben sowie Ziele des Lernens hervorzurufen.
+
+*Ziel* des Spiels ist es Wissen und eine Vorstellung vom Universum zu vermitteln (bspw. auch Kräfte), zu überleben, so viele Fragen wie möglich zu beantworten und Punkte zu sammeln. Am Ende könnte eine große Belohnung für das Spiel warten.
+
+== Art der Umsetzung
+
+Programmierumgebung und -sprache noch nicht festgelegt.
+
+Der Spieler startet auf einem Planeten (Erde!?) mit seinem Raumschiff, eventuell mit Abschied von Eltern und Freunden damit Absicht klar wird, um zu diversen Körpern im Universum zu fliegen. Dazu muss er des öfteren durch Asteroidenschauer fliegen und ausweichen. Dabei können ihn Gegner stören. Wird er getroffen, verliert er Gesundheit oder ein Leben(Gesundheit 0). Nach einer gewissen Zeit mit Erfolg landet er auf einem Planeten, Raumstation, Stern, Mond o.ä. mit seinem Raumschiff. Nun kann er (in 2D) den Körper erforschen. Dabei laufen ihm Lebewesen und andere Menschen über den Weg mit denen er reden kann um entweder Infos zu bekommen, ihnen zu helfen, Aufgaben zu meistern oder Fragen zu beantworten. Meistert er die Aufgabe oder beantwortet die Fragen, bekommt er eine Belohnung in Form von Punkten, Treibstoff, Waffen für das Raumschiff und/oder Extras (bspw. Verlangsamungsstrahl). Weitere Hilfen zu den Fragen und dem Spiel liegen auf dem Weg oder stehen im Hintergrund. Hat er einen Planeten zu einem gewissen Grad abgeschlossen, kann er sich zum nächsten Körper begeben. Dazu muss er wieder durch einen Asteroidenschauer.
+
+Der Schwierigkeitsgrad passt sich an die jeweilige Zielgruppe an und wird im Verlauf des Spiels schwerer. Klischeehafte und typische Zitate/Sprüche dürfen natürlich nicht fehlen und sollen den <<anchor-1, Spaßfaktor>> erhöhen. Allgemeinwissen wird dabei auch gefördert werden.
+
+[[anchor-1]]
+== Anmerkung
+
+Houston, ich muss doch jetzt ins Bett, denn _mein Vater erklärt mir (an) jedem Sonntag unseren Nachthimmel_!!!11!
