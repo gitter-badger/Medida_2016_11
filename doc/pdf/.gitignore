@@ -1,0 +1,4 @@
+# Only track PDF files
+*
+!*/
+!*.pdf

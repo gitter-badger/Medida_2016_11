@@ -11,7 +11,7 @@ commit_website_files() {
   git stash
   git checkout doc-travis
   git stash apply && git stash drop
-  cd doc/build
+  cd doc/pdf
   git add . *.pdf
   git commit --message "Travis asciidoctor build: $TRAVIS_BUILD_NUMBER"
 }
