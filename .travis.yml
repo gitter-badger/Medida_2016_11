@@ -8,8 +8,8 @@ before_install:
 - gem install asciidoctor
 - gem install --pre asciidoctor-pdf
 before_script:
-- chmod +x "./travis/build_doc.sh"
-- chmod +x "./travis/push.sh"
+- chmod +x ".travis/build_doc.sh"
+- chmod +x ".travis/push.sh"
 script:
 - ".travis/build_doc.sh"
 after_success:
