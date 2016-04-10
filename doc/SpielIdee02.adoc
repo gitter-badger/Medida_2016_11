@@ -1,5 +1,5 @@
 :game_title: Old but Gold
-:group_name: *STeLLARG Games*
+:group_name: STeLLARG Games
 :group_id: 11
 
 = {game_title}
