@@ -1,0 +1,24 @@
+= Protokoll Gruppe 11
+
+__06.04.2016__
+
+- [*] Tutorentreffen
+- [ ] internes Treffen
+
+.__Teilnehmer:__
+* Thomas Görlach
+* Linda Doan
+* André Gleißner
+* Leon Brandt
+* Stefanie Macak
+* Georg Graßnick
+
+== Ziele bis zum nächsten Meeting
+
+* Teamname finden
+* Teamleiter und Protokollant bestimmen
+* zwei Spielideen formulieren
+* Einrichtung eines Git Repositories
+
+== Bemerkungen
+* keine
