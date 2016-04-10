@@ -1,39 +1,31 @@
-:game_title: Placeholder
+:game_title: Old but Gold
 :group_name: *STeLLARG Games*
 :group_id: 11
 
 = {game_title}
 
-_Version:_	*1.0*
+_Version:_ *1.0*
 
-_Gruppe:_	*{group_id}*
+_Gruppe:_ *{group_id}*
 
-_Gruppenname:_	*{group_name}*
-
+_Gruppenname:_ *{group_name}*
 
 == Bezeichnung: *{game_title}*
 
-== Zielgruppe: *Ältere Menschen mit wenig Erfahrung im Umgang mit Computern*
+== Zielgruppe: *Menschen mit wenig Erfahrung im Umgang mit Computern*
 
 == Inhalt
 
-Das Lernspiel {game_title} hat es sich zur Aufgabe gemacht, ...
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer
+Das Lernspiel {game_title} hat es sich zur Aufgabe gemacht, älteren Menschen ohne weitere entsprechende Vorkenntnisse den Umgang mit dem Computer näherzubringen.
+Dazu sollen veranschaulichende Grafiken und Texte genutzt werden und in eine ansprechende Spielumgebung eingebettet werden, welche wie unten beschrieben aussehen könnte.
 
 == Art der Umsetzung
 
-Programmierumgebung und -sprache noch nicht festgelegt.
+Denkbar wären an dieser Stelle verdeutlichende Screenshots aus gängigen Programmen, wie E-Mail Clients, Webbrowser und Officeanwendungen, bei denen der Spieler auf die richtige (animierte) Schaltfläche drücken muss oder Multiple Choice Fragen beantwortet um den Spielverlauf voranzutreiben.
+Einige gängige Sicherheitstipps für den Alltag könnten ebenfalls aufgenommen werden, wie beispielsweise die Simulation einer Phishing-Attacke.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Bei falschen Antworten oder Unkenntnis des Spielers werden die Lösungen temporär eingeblendet und müssen/können später erneut beantwortet werden.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Nachdem der Spieler alle Aufgaben richtig gelöst hat erwartet ihn ein Gewinnbildschirm und die Option, sein neu erworbenes "Fachwissen" in Form einer Urkunde auszudrucken.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer
+Programmierumgebung und -sprache sind zum aktuellen Zeitpunkt noch nicht festgelegt.
