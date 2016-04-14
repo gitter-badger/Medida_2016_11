@@ -1,0 +1,34 @@
+= Protokoll Gruppe 11
+
+__13.04.2016__
+
+- [ ] Tutorentreffen
+- [*] internes Treffen
+
+.__Teilnehmer:__
+* Thomas Görlach
+* Linda Doan
+* Stefanie Macak
+* Georg Graßnick
+
+== Ergebnisse seit dem letzten Meeting
+
+* Teamname: "LAutLOS"
+* Teamleiter: Leon Brandt
+* Protokollant: Georg Graßnick
+* zwei Spielideen formuliert und abgegeben
+** Astronomie: "Stars Explorers"
+** Computerbedienung: "Old but gold"
+* Git Repository erfolgreich erstellt
+
+== Ziele bis zum nächsten Meeting
+
+* Corporate Design
+** Logoentwurf
+** Dokumentenvorlage erstellen
+*** Fonts
+*** Farben
+*** Dokumentaufbau
+
+== Bemerkungen
+* André Gleißner und Leon Brandt krank und entschuldigt
