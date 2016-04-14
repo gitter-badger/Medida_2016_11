@@ -1,10 +1,10 @@
 = Stars Explorers
 
-_Version:_	*1.0*
+_Version:_	*1.1*
 
 _Gruppe:_	*11*
 
-_Gruppenname:_	*STeLLARG Games*
+_Gruppenname:_	*LAuTLOS*
 
 
 == Bezeichnung: *Stars Explorers*

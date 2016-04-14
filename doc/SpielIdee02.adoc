@@ -1,10 +1,10 @@
 :game_title: Old but Gold
-:group_name: STeLLARG Games
+:group_name: LAuTLOS
 :group_id: 11
 
 = {game_title}
 
-_Version:_ *1.0*
+_Version:_ *1.1*
 
 _Gruppe:_ *{group_id}*
 
