@@ -2,36 +2,33 @@
 
 __13.04.2016__
 
-- [ ] Tutorentreffen
-- [*] internes Treffen
+- [*] Tutorentreffen
+- [ ] internes Treffen
 
 .__Teilnehmer:__
 * Thomas Görlach
 * Linda Doan
+* André Gleißner
+* Leon Brandt
 * Stefanie Macak
 * Georg Graßnick
 
 == Ergebnisse seit dem letzten Meeting
 
-* Teamname: "LAutLOS"
-* Teamleiter: Leon Brandt
-* Protokollant: Georg Graßnick
-* zwei Spielideen formuliert und abgegeben
-** Astronomie: "Stars Explorers"
-** Computerbedienung: "Old but gold"
-* Git Repository erfolgreich erstellt
+* Corporate Design
+** zwei Entwürfe zum Dokumentaufbau erstellt
+** skizzenhafte Logos entworfen
 
 == Ziele bis zum nächsten Meeting
 
-* Corporate Design
-** Logoentwurf
-** Dokumentenvorlage erstellen
+* Wahl des Logos
+* Wahl des Corporate Design
 
 == Nächstes Teilziel: 2 | 24.04.16
 
 Spielidee genau spezifizieren: ::
-* [ ] Titel des Lernspiels
-* [ ] Zielgruppe
+* [*] Titel des Lernspiels
+* [*] Zielgruppe
 * [ ] Zielstellung
 * [ ] Inhalt
 * [ ] Struktur, grafisch und kurz erläutert
@@ -44,4 +41,4 @@ Corporate Design für alle Abgaben und Protokolle: ::
 ** [ ] Gruppenlogodesign
 
 == Bemerkungen
-* André Gleißner und Leon Brandt krank und entschuldigt
+* keine

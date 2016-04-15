@@ -20,5 +20,12 @@ __06.04.2016__
 * zwei Spielideen formulieren
 * Einrichtung eines Git Repositories
 
+== Nächstes Teilziel: 1 | 10.04.16
+
+* [ ] Gruppenname
+* [ ] Gruppenleiter
+* [ ] Protokollant
+* [ ] zwei Spielideen
+
 == Bemerkungen
 * keine
