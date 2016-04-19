@@ -1,9 +1,9 @@
 = Protokoll Gruppe 11
 
-__15.04.2016__
+__19.04.2016__
 
-- [*] Tutorentreffen
-- [ ] internes Treffen
+- [ ] Tutorentreffen
+- [*] internes Treffen
 
 .__Teilnehmer:__
 * Thomas Görlach
@@ -15,14 +15,22 @@ __15.04.2016__
 
 == Ergebnisse seit dem letzten Meeting
 
-* Corporate Design
-** zwei Entwürfe zum Dokumentaufbau erstellt
-** skizzenhafte Logos entworfen
+* Story stichpunktartig entworfen
 
 == Ziele bis zum nächsten Meeting
 
-* Wahl des Logos
+* Wahl des Logos und dessen Erstellung
 * Wahl des Corporate Design
+* Corporate Design fertigstellen, bestehende Dokumente anpassen
+* Story im Fließtext niederschreiben
+* Zielstellung verfassen
+* Zeitplan aufstellen
+* Rücksprache mit Tutor bezüglich Differenzen zwischen Opal Dokumentation und Angaben der Tutorin
+** Teilziel 2 nach Opal:
+*** Ziel, Corporate Design, Arbeitspakete, Zeitplan, Inhalte, Aufbau 
+** Teilziel 2 zusätzlich, nach Tutorin:
+*** Struktur, grafisch und kurz erläutert
+** Rücksprachen bezüglich des Aufbaus der Arbeitspakete
 
 == Nächstes Teilziel: 2 | 24.04.16
 
