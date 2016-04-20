@@ -1,0 +1,14 @@
+= Teilziel 02
+:author: Gruppe 11
+
+include::fragments/_ziel.adoc[]
+
+include::fragments/_inhalt.adoc[]
+
+include::fragments/_struktur.adoc[]
+
+include::fragments/_zeitplan.adoc[]
+
+include::fragments/_arbeitspakete.adoc[]
+
+include::fragments/_corporate_design.adoc[]
