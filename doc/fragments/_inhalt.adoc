@@ -1,6 +1,6 @@
 == Inhalt des Spiels
 
-Old but Gold
+*{game_title}*
 
 Das Spiel startet mit einem überspringbaren Intro, indem sich das Teamlogo aus
 dem Namen der Teammitglieder aufbaut. Anschließend erscheint der Hauptcharakter
@@ -11,7 +11,7 @@ Der Kursleiter ist noch nicht unter den Anwesenden (mehrere ältere Leute) und
 nachdem er auch nach einiger Zeit nicht angekommen ist (mögliche Umsetzung durch
 dargestellte Uhr in Zeitraffer oder Änderung der Lichtverhältnisse wenn
 Abendkurs) und die ersten schon wieder gehen wollen, fällt einem der Teilnehmer
-auf das sein Handy eine neue Nachricht hat. Er zeigt es den anderen und damit
+auf, dass sein Handy eine neue Nachricht hat. Er zeigt es den anderen und damit
 auch unserem Hauptcharakter, der jetzt die erste kleine Aufgabe erfüllen muss:
 Er muss aus der Liste der Appsymbole das richtige auswählen (Mailsymbol leuchtet
 auf oder blinkt, evtl. auf zweiter Seite). Wenn nach einiger Zeit nichts passiert
@@ -29,10 +29,10 @@ Drag-and-Drop in einen Richtig/Falsch-Bereich). Wenn alles korrekt ist erklärt
 das Gebiss auch noch einmal was an welcher Mail auffällig war. (Mögliche
 Erweiterung: die guten und schlechten Mails fallen in einem weiteren Minispiel
 als Symbole in unterschiedlicher Geschwindigkeit herunter und müssen vom Spieler
-mit einem Papierkorb aufgefangen werden --> Spammails nicht öffnen sondern löschen).
+mit einem Papierkorb aufgefangen werden -> Spammails nicht öffnen sondern löschen).
 
 Die neuste noch als ungelesen makierte Mail ist von dem Kursleiter und wenn der
-Nutzer sie öffnet erfährt er das dieser sich leider aufgrund eines Straßenbahnunfalls
+Nutzer sie öffnet erfährt er, dass dieser sich leider aufgrund eines Straßenbahnunfalls
 etwas verspätet und die Teilnehmer trotzdem vor Ort bleiben und schon einmal
 anfangen sollen. Begeistert von der neu entdeckten Entwicklung kommen die
 Kursteilnehmer auf die Idee zu antworten, was im Spiel mit Hilfe einer nächsten
@@ -56,29 +56,29 @@ korrekt ist (evtl. mehrere Lösungen, Hinweise nach Zeit wieder durch andere
 Kursteilnehmer oder das allwissende Gebiss), wird die Übertragung der Fotos
 durch eine Animation veransschaulicht.
 
-Die Bilder öffnen sich, aber auf dem besten Foto ist leider der ungeliebte
-Schwiegersohn mit zu sehen und das trübt natürlich die ansonsten perfekt
+Die Bilder öffnen sich, aber auf dem besten Foto ist leider auch der ungeliebte
+Schwiegersohn zu sehen und das trübt natürlich die ansonsten perfekt
 eingefangene Urlaubsidylle. Der Vorschlag kommt auf das Bild deshalb mit einem
 Bildbearbeitungsprogramm zu bearbeiten, indem die Datei mit Rechtsklick - Öffnen
 mit - Päint geöffnet wird. An dieser Stelle wird für den weiter verbesserten
 Umgang mit Maus und Tastatur ein weiteres Minispiel gestartet, in dem der Spieler
 bestimmte Maustasten (auch Doppelklick, etc) oder Tasten drücken muss, die auf
 dem Bildschirm dargestellt werden (blinken auf/leuchten/fallen runter). Eine
-mögliche Einbindung in die Handlung wäre das einer der Teilnehmer erwähnt das er
-seinen Umgang mit dem PC mit so einem Spiel gelernt hat und er demonstriert es
-den anderen Teilnehmern).
+mögliche Einbindung in die Handlung wäre, dass einer der Teilnehmer erwähnt, dass er
+seinen Umgang mit dem PC mit so einem Spiel gelernt hat und es den anderen
+Teilnehmern demonstriert).
 
 In dem Bildbearbeitungsprogramm gibt es u.a. ein Ausschneiderwerkzeug und der Nutzer
-muss einen gewünschten Bereich der erhalten bleiben soll makieren. Hat er diesen
-korrekt gefunden muss er auf ein Speichersymbol klicken und dem Bild dabei einen
-geeigneten Namen geben. Anschließend im Mailprogramm muss er den Button zum Anhang
+muss einen gewünschten Bereich der erhalten bleiben soll markieren. Hat er diesen
+korrekt gefunden muss er auf ein Speichersymbol klicken, dem Bild dabei einen
+geeigneten Namen geben und anschließend im Mailprogramm den Button zum Anhang
 hinzufügen finden, die richtige Datei auswählen und die Mail schließlich abschicken.
 (Optionale Erweiterung: Tutorial/Spiel für Registrieren und Einrichten eines
 Mailkontos).
 
 Jetzt kommt der Kursleiter, vom Regen durchnässt durch die Tür gestolpert,
-entschuldigt sich mehrfach für die Verspätung und meint das sie jetzt endlich
-anfangen könnten. Begeistert berichten die Teilnehmer aber das sie doch schon
+entschuldigt sich mehrfach für die Verspätung und meint, dass sie jetzt endlich
+anfangen könnten. Begeistert berichten die Teilnehmer aber, dass sie doch schon
 alles könnten. Verdutzt gibt der Lehrer deshalb einen Abschlusstest aus: hier
 muss der Nutzer in einem Lückentext, in dem das Wissen über Mails abgefragt wird,
 die richtigen Begriffe einordnen. Wenn alles richtig ist bekommt jeder Teilnehmer
