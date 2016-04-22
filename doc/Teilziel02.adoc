@@ -15,6 +15,3 @@ include::fragments/_zeitplan.adoc[]
 
 <<<<
 include::fragments/_arbeitspakete.adoc[]
-
-<<<<
-include::fragments/_corporate_design.adoc[]
