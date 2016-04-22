@@ -1,1 +1,15 @@
-== Ziel
+﻿== Zielstellung
+
+__Kognitive Ziele__
+
+Dem Spieler sollen in unterhaltsamer Weise Wissen zum Thema Computer/ IT- Benutzung vermittelt werden. Die gelernten Begriffe und Strategien können den Nutzern helfen, in ihren Alltag besser zu bewältigen und dazu motivieren, sich mit dem Thema selbstständig auseinanderzusetzen.
+Die genutzten Methoden und der klar strukturierte Verlauf sollen außerdem eine Möglichkeit sein, dem Benutzer Wege zu zeigen, mit welchen er sich selbst neue Teilgebiete der Softwarenutzung erarbeiten kann.
+
+__Psychomotorische Ziele__
+
+Hier stehen die Benutzung der Eingabegeräte Tastatur und Maus im Vordergrund. Hier soll durch verschiedene Minispiele, die Eingabefähigkeiten mit diesen Geräten abverlangen, die motorischen Fertigkeiten geschult werden. Speziell werden häufig notwendige Eingabeverfahren, wie Drag and Drop, Doppelklick, oder Rechteckauswahl trainiert.
+
+__Affektive Ziele__
+
+Die individuelle Motivation, soll durch eine interessante Handlung, sowie einige humorvollen Inhalte geweckt werden. Dadurch wird die Benutzung von Endgeräten nicht als durch und durch ernste Angelegenheit, sondern als eine durchaus Freude bereitende und nützliche Sache dargestellt. Es soll gezeigt werden, dass Computer, Smartphones und Internet nicht nur Leuten vorenthalten sind, die damit aufwachsen.
+
