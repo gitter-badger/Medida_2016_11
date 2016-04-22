@@ -2,19 +2,21 @@
 include::fragments/_head.adoc[]
 :changedate: 07.04.2016
 
-_Gruppe:_:: 11
+== Allgemeines
 
-_Gruppenname:_:: {group_title}
+*Gruppe:*:: {group_id}
 
-_Bezeichnung:_:: Stars Explorers
+*Gruppenname:*:: {group_title}
 
-_Zielgruppe:_:: Schüler Klasse 5-9 (Gymnasium Sachsen)
+*Bezeichnung:*:: Stars Explorers
+
+*Zielgruppe:*:: Schüler Klasse 5-9 (Gymnasium Sachsen)
 
 == Inhalt
 
 In dem interaktiven Lernspiel "Stars Invaders" geht es darum dem Lernenden/Spielenden/Anwender das Universum, insbesondere unser Sonnensystem, näher zu bringen. Der Spieler fliegt dabei mit einem Raumschiff jedes mal durch einen Asteroidenschauer von Körper zu Körper. Auf den Planeten (Körpern) kann/muss der Spieler Fragen beantworten, zu welchen es (teilweise) Hinweise gibt und Belohnungen auf ihn warten. Außerdem wird er mit moralischen Entscheidungen zu kämpfen haben. Fragen, Handeln und Entscheidungen sollen sich auf den Verlauf des Spieles auswirken und durch diese Interaktivität eine gewisse Motivation und Spaß geben sowie Ziele des Lernens hervorzurufen.
 
-*Ziel* des Spiels ist es Wissen und eine Vorstellung vom Universum zu vermitteln (bspw. auch Kräfte), zu überleben, so viele Fragen wie möglich zu beantworten und Punkte zu sammeln. Am Ende könnte eine große Belohnung für das Spiel warten.
+Ziel des Spiels ist es Wissen und eine Vorstellung vom Universum zu vermitteln (bspw. auch Kräfte), zu überleben, so viele Fragen wie möglich zu beantworten und Punkte zu sammeln. Am Ende könnte eine große Belohnung für das Spiel warten.
 
 == Art der Umsetzung
 

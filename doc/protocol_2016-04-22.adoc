@@ -1,0 +1,49 @@
+= Protokoll {changedate}
+include::fragments/_head.adoc[]
+:changedate: 22.04.2016
+
+== Organisatorisches
+
+- [ ] Tutorentreffen
+- [*] internes Treffen
+
+.*Teilnehmer:*
+* [*] Thomas Görlach
+* [*] Linda Doan
+* [*] André Gleißner
+* [*] Stefanie Macak
+* [*] Leon Brandt
+* [*] Georg Graßnick
+
+
+== Ergebnisse seit dem letzten Meeting
+
+* Story mit Minispielideen verfasst
+* Formatvorlage verfasst
+* Logo fertiggestellt
+
+== Ziele bis zum nächsten Meeting
+
+* Zielstellung verfassen
+* Zeitplan aufstellen
+* Spielstruktur visualisieren
+* Arbeitspakete auffassen
+
+== Nächstes Teilziel: 2 | 24.04.16
+
+Spielidee genau spezifizieren: ::
+* [*] Titel des Lernspiels
+* [*] Zielgruppe
+* [ ] Zielstellung
+* [*] Inhalt
+* [ ] Struktur, grafisch und kurz erläutert
+* [ ] Zeitplanung (grafisch),
+* [ ] Arbeitspakete (Wer macht was, bis wann, wie)
+
+
+Corporate Design für alle Abgaben und Protokolle: ::
+** [*] Formatvorlage
+** [*] Gruppenlogodesign
+
+== Bemerkungen
+* keine

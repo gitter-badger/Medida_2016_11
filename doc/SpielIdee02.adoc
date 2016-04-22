@@ -2,13 +2,15 @@
 include::fragments/_head.adoc[]
 :changedate: 09.04.2016
 
-_Gruppe:_:: {group_id}
+== Allgemeines
 
-_Gruppenname:_:: {group_title}
+*Gruppe:*:: {group_id}
 
-_Bezeichnung:_.. {game_title}
+*Gruppenname:*:: {group_title}
 
-_Zielgruppe:_:: Menschen mit wenig Erfahrung im Umgang mit Computern
+*Bezeichnung:*:: {game_title}
+
+*Zielgruppe:*:: Menschen mit wenig Erfahrung im Umgang mit Computern
 
 == Inhalt
 
