@@ -1,22 +1,21 @@
-:game_title: Old but Gold
-:group_name: LAuTLOS
-:group_id: 11
+include::fragments/_head.adoc[]
+:changedate: 09.04.2016
 
-= {game_title}
+= {game.title}
 
 _Version:_ *1.1*
 
 _Gruppe:_ *{group_id}*
 
-_Gruppenname:_ *{group_name}*
+_Gruppenname:_ *{group.title}*
 
-== Bezeichnung: *{game_title}*
+== Bezeichnung: *{game.title}*
 
 == Zielgruppe: *Menschen mit wenig Erfahrung im Umgang mit Computern*
 
 == Inhalt
 
-Das Lernspiel {game_title} hat es sich zur Aufgabe gemacht, älteren Menschen ohne weitere entsprechende Vorkenntnisse den Umgang mit dem Computer näherzubringen.
+Das Lernspiel {game.title} hat es sich zur Aufgabe gemacht, älteren Menschen ohne weitere entsprechende Vorkenntnisse den Umgang mit dem Computer näherzubringen.
 Dazu sollen veranschaulichende Grafiken und Texte genutzt werden und in eine ansprechende Spielumgebung eingebettet werden, welche wie unten beschrieben aussehen könnte.
 
 == Art der Umsetzung

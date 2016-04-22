@@ -1,4 +1,6 @@
-= Protokoll Gruppe 11
+= Protokoll {changedate}
+include::fragments/_head.adoc[]
+:changedate: 15.04.2016
 
 __15.04.2016__
 

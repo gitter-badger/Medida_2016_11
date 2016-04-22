@@ -1,4 +1,6 @@
-= Protokoll Gruppe 11
+= Protokoll {changedate}
+include::fragments/_head.adoc[]
+:changedate: 13.04.2016
 
 __13.04.2016__
 
@@ -13,7 +15,7 @@ __13.04.2016__
 
 == Ergebnisse seit dem letzten Meeting
 
-* Teamname: "LAutLOS"
+* Teamname: "LAuTLOS"
 * Teamleiter: Leon Brandt
 * Protokollant: Georg Graßnick
 * zwei Spielideen formuliert und abgegeben

@@ -1,0 +1,5 @@
+:author: Gruppe 11 - LAuTLOS
+:group.id: 11
+:group.title: LAuTLOS
+:group.names: Linda Doan, Seffanie Macak, Leon Brandt, André Gleißner, Thomas Görlach, Georg Graßnick
+:game.title: Old but Gold

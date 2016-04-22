@@ -1,5 +1,7 @@
 = Teilziel 02
-:author: Gruppe 11
+:author: Gruppe 11 - LAuTLOS
+:project: Old but gold
+:changedate: 22.04.2016
 
 include::fragments/_ziel.adoc[]
 

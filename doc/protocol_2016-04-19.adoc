@@ -1,4 +1,6 @@
-= Protokoll Gruppe 11
+= Protokoll {changedate}
+include::fragments/_head.adoc[]
+:changedate: 19.04.2016
 
 __19.04.2016__
 
@@ -27,7 +29,7 @@ __19.04.2016__
 * Zeitplan aufstellen
 * Rücksprache mit Tutor bezüglich Differenzen zwischen Opal Dokumentation und Angaben der Tutorin
 ** Teilziel 2 nach Opal:
-*** Ziel, Corporate Design, Arbeitspakete, Zeitplan, Inhalte, Aufbau 
+*** Ziel, Corporate Design, Arbeitspakete, Zeitplan, Inhalte, Aufbau
 ** Teilziel 2 zusätzlich, nach Tutorin:
 *** Struktur, grafisch und kurz erläutert
 ** Rücksprachen bezüglich des Aufbaus der Arbeitspakete

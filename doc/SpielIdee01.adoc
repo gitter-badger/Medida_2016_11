@@ -1,10 +1,12 @@
 = Stars Explorers
+include::fragments/_head.adoc[]
+:changedate: 07.04.2016
 
 _Version:_	*1.1*
 
 _Gruppe:_	*11*
 
-_Gruppenname:_	*LAuTLOS*
+_Gruppenname:_	*{group.title}*
 
 
 == Bezeichnung: *Stars Explorers*
