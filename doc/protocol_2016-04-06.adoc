@@ -2,18 +2,19 @@
 include::fragments/_head.adoc[]
 :changedate: 06.04.2016
 
-__06.04.2016__
+== Organisatorisches
 
 - [*] Tutorentreffen
 - [ ] internes Treffen
 
-.__Teilnehmer:__
-* Thomas Görlach
-* Linda Doan
-* André Gleißner
-* Leon Brandt
-* Stefanie Macak
-* Georg Graßnick
+.*Teilnehmer:*
+* [*] Thomas Görlach
+* [*] Linda Doan
+* [*] André Gleißner
+* [*] Stefanie Macak
+* [*] Leon Brandt
+* [*] Georg Graßnick
+
 
 == Ziele bis zum nächsten Meeting
 

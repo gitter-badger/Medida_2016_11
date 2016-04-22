@@ -1,17 +1,14 @@
-= Stars Explorers
+= Spielidee 1 - Stars Explorers
 include::fragments/_head.adoc[]
 :changedate: 07.04.2016
 
-_Version:_	*1.1*
+_Gruppe:_:: 11
 
-_Gruppe:_	*11*
+_Gruppenname:_:: {group_title}
 
-_Gruppenname:_	*{group.title}*
+_Bezeichnung:_:: Stars Explorers
 
-
-== Bezeichnung: *Stars Explorers*
-
-== Zielgruppe: *Schüler Klasse 5-9 (Gymnasium Sachsen)*
+_Zielgruppe:_:: Schüler Klasse 5-9 (Gymnasium Sachsen)
 
 == Inhalt
 
