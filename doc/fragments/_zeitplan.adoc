@@ -1,1 +1,58 @@
 == Zeitplan
+
+.*10.04.2016* - Teilziel 1:
+* Gruppenname
+* Gruppenleiter
+* Protokollant
+* 2 Spielthemen mit kurzer Erläuterung
+
+.*11.04.2016 bis 15.04.2016* - Tutortreffen:
+* Festlegung der Spielidee
+
+.*24.04.2016* - Teilziel 2:
+* Titel des Lernspiels
+* Zielgruppe
+* Zielstellung
+* Inhalt
+* Struktur
+* Zeitplanung
+* Arbeitspakete
+* Dokumentenvorlage
+* Gruppenlogodesign
+
+.*25.04.16 bis 29.04.2016* - Tutortreffen:
+* Feedback zu Teilziel 2
+
+.*08.05.2016* - Teilziel 3:
+* Layoutvorschlag
+* detaillierte Struktur
+* erste Inhalte
+
+.*11.05.2016:*
+* Feedback zum Layoutvorschlag mit Prof. Groh
+
+.*05.06.2016* - Teilziel 4:
+* Prototyp - Design
+* Layout
+* Hauptfunktionen
+* mindestens 1 vollständiges Kapitel
+* Aufgabenbeispiele
+
+.*06.06.2016 bis 10.06.2016* - Tutortreffen
+* Begutachtung des Prototyps und des aktuellen Enwicklungsstands
+
+.*04.07.2016 bis 08.07.2016* - Treff Teamleiter + Tutor
+* Vorbereitung der Präsentation und der Abgabe
+
+.*10.07.2016* - Endabgabe 1/2
+* Dokumentation
+* Erklärung
+* Präsentationsfolien
+* Festlegung des Jurymitglieds und der Präsentatoren
+
+.*12.07.2016 07:00 Uhr* Endabgabe 2/2
+* Finales Programm eingebunden auf der http://is63050.inf.tu-dresden.de/medida2015/[Medida-Website]
+
+.*13.07.2016 11:10 Uhr* - Präsentation
+* im Raum E023
+* Jurymitglieder bereits 10:50 eintreffen
