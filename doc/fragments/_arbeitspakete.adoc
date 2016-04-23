@@ -1,1 +1,33 @@
 == Arbeitspakete
+
+*{game_title}*
+
+* Einarbeitung in Programmierumgebung und -sprache
+Alle +
+* Intro mit Namenseingabe
+* Animation Handynachricht, Einleitung
+* _Minispiel_ "E-Mail öffnen, Mailprogramm, Spammails" 
+* E-Mail des Kursleiters, Motivation der Teilnehmer
+* _Minispiel_ "Tippübungen" (Antwort auf E-Mail)
+* Antwort senden, Urlaubserzählungen
+* _Minispiel_ "PC-Handy-Übertragung Reihenfolge":
+* Übertragung der Fotos auf PC, anschauen der Fotos, Bildbearbeitung
+* _Minispiel_ "Maus- und Tastaturumgang festigen"
+* Einleitung zur Bildbearbeitung
+* Bild ausschneiden und Anhang hinzufügen
+* Optional: _Minispiel/Tutorial_ "Einrichtung Mailkonto"
+* Animation Lehrer kommt herein
+* _Minispiel_ "Abschlusstest"
+* Urkunde für Abschluss ausdruckbar
+* Endanimation/Outro
+
+* Verknüpfung von allem
+Alle +
+* Websiteverwaltung
+Leon +
+* Protokolle
+Georg +
+* Dokumentation
+Alle +
+* Präsentation
+Alle +
