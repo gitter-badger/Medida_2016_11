@@ -17,7 +17,6 @@ Er muss aus der Liste der Appsymbole das richtige auswählen (Mailsymbol leuchte
 auf oder blinkt, evtl. auf zweiter Seite). Wenn nach einiger Zeit nichts passiert
 gibt eine Leitfigur (ein sprechendes Gebiss) entsprechende Hinweise wie man
 weiterkommen kann.
-.Storyboard 1 -Anmeldung image::Storyboard1.jpg[]
 
 Hat der Nutzer das Mailsymbol gefunden und angeklickt öffnet sich das Mailprogramm
 mit einigen neuen Mails (Liste jeweils mit Betreff und Absender etc.) und das
