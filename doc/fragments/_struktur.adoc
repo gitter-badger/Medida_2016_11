@@ -1,7 +1,7 @@
 == Struktur
-+.Storyboard 1 -Anmeldung image::Storyboard1.jpg[]
-+.Storyboard 2 -Kursraum image::Storyboard2.jpg[]
-+.Storyboard 3 -Email vom Kursleiter::Storyboard3.jpg[]
-+.Storyboard 4 -Email schreiben und Bildübertragung auf Pc::Storyboard4.jpg[]
-+.Storyboard 5 -Bildbearbeitung und Dateien anhangen::Storyboard5.jpg[]
-+.Storyboard 6 -Abschlusstest::Storyboard6.jpg[]
+.Storyboard 1 -Anmeldung image::Storyboard1.jpg[]
+.Storyboard 2 -Kursraum image::Storyboard2.jpg[]
+.Storyboard 3 -Email vom Kursleiter::Storyboard3.jpg[]
+.Storyboard 4 -Email schreiben und Bildübertragung auf Pc::Storyboard4.jpg[]
+.Storyboard 5 -Bildbearbeitung und Dateien anhangen::Storyboard5.jpg[]
+.Storyboard 6 -Abschlusstest::Storyboard6.jpg[]
