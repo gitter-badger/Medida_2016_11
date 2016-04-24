@@ -2,58 +2,62 @@
 
 *{game_title}*
 
-.Einarbeitung in Programmierumgebung und -sprache
+.*Einarbeitung in Programmierumgebung und -sprache*
 * Alle
 
-.Grafiker
+.*Grafiker*
 * Stefanie
 * Linda
 
-.Sound
+.*Sound*
 * Alle
 
-.Scripter
+.*Scripter*
 * Alle
 
-.Storywriter
+.*Storywriter*
 * Alle
 
-.AP1
+.*AP1*
 * Intro mit Namenseingabe
 * Animation Handynachricht, Einleitung
-* *Minispiel* "E-Mail öffnen, Mailprogramm, Spammails" 
+* _Minispiel_ "E-Mail öffnen, Mailprogramm, Spammails" 
 
-.AP2
+.*AP2*
 * E-Mail des Kursleiters, Motivation der Teilnehmer
-* *Minispiel* "Tippübungen" (Antwort auf E-Mail)
+* _Minispiel_ "Tippübungen" (Antwort auf E-Mail)
 * Antwort senden
 
-.AP3
+.*AP3*
 * Urlaubserzählungen
-* *Minispiel* "PC-Handy-Übertragung Reihenfolge"
+* _Minispiel_ "PC-Handy-Übertragung Reihenfolge"
 * Übertragung der Fotos auf PC, anschauen der Fotos, Bildbearbeitung
 
-.André
-* *Minispiel* "Maus- und Tastaturumgang festigen"
+.*André*
+* _Minispiel_ "Maus- und Tastaturumgang festigen"
 * Einleitung zur Bildbearbeitung
 * Bild ausschneiden und Anhang hinzufügen
 
-.Alle
-* Optional: *Minispiel/Tutorial* "Einrichtung Mailkonto"
+.*Alle*
+* Optional: _Minispiel/Tutorial_ "Einrichtung Mailkonto"
 
-.Stefanie, Linda
+.*Stefanie, Linda*
 * Animation Lehrer kommt herein
-* *Minispiel* "Abschlusstest"
+* _Minispiel_ "Abschlusstest"
 * Urkunde für Abschluss ausdruckbar
 * Endanimation/Outro
 
-.Verknüpfung von allem
+.*Verknüpfung von allem*
 * Alle
-.Websiteverwaltung
+
+.*Websiteverwaltung*
 * Leon
-.Protokolle
+
+.*Protokolle*
 * Georg
-.Dokumentation
+
+.*Dokumentation*
 * Alle
-.Präsentation
+
+.*Präsentation*
 * Alle
