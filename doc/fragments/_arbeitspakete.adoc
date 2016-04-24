@@ -2,38 +2,58 @@
 
 *{game_title}*
 
-* Einarbeitung in Programmierumgebung und -sprache
+.Einarbeitung in Programmierumgebung und -sprache
+* Alle
 
-Alle +
+.Grafiker
+* Stefanie
+* Linda
+
+.Sound
+* Alle
+
+.Scripter
+* Alle
+
+.Storywriter
+* Alle
+
+.AP1
 * Intro mit Namenseingabe
 * Animation Handynachricht, Einleitung
-* _Minispiel_ "E-Mail öffnen, Mailprogramm, Spammails" 
+* *Minispiel* "E-Mail öffnen, Mailprogramm, Spammails" 
+
+.AP2
 * E-Mail des Kursleiters, Motivation der Teilnehmer
-* _Minispiel_ "Tippübungen" (Antwort auf E-Mail)
-* Antwort senden, Urlaubserzählungen
-* _Minispiel_ "PC-Handy-Übertragung Reihenfolge":
+* *Minispiel* "Tippübungen" (Antwort auf E-Mail)
+* Antwort senden
+
+.AP3
+* Urlaubserzählungen
+* *Minispiel* "PC-Handy-Übertragung Reihenfolge"
 * Übertragung der Fotos auf PC, anschauen der Fotos, Bildbearbeitung
-* _Minispiel_ "Maus- und Tastaturumgang festigen"
+
+.André
+* *Minispiel* "Maus- und Tastaturumgang festigen"
 * Einleitung zur Bildbearbeitung
 * Bild ausschneiden und Anhang hinzufügen
-* Optional: _Minispiel/Tutorial_ "Einrichtung Mailkonto"
+
+.Alle
+* Optional: *Minispiel/Tutorial* "Einrichtung Mailkonto"
+
+.Stefanie, Linda
 * Animation Lehrer kommt herein
-* _Minispiel_ "Abschlusstest"
+* *Minispiel* "Abschlusstest"
 * Urkunde für Abschluss ausdruckbar
 * Endanimation/Outro
 
-* Verknüpfung von allem
-
-Alle +
-* Websiteverwaltung
-
-Leon +
-* Protokolle
-
-Georg +
-* Dokumentation
-
-Alle +
-* Präsentation
-
-Alle +
+.Verknüpfung von allem
+* Alle
+.Websiteverwaltung
+* Leon
+.Protokolle
+* Georg
+.Dokumentation
+* Alle
+.Präsentation
+* Alle
