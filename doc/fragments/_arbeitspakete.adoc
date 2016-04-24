@@ -21,14 +21,14 @@
 .*AP1*
 * Intro mit Namenseingabe
 * Animation Handynachricht, Einleitung
-* _Minispiel_ "E-Mail öffnen, Mailprogramm, Spammails" 
+* _Minispiel_ "E-Mail öffnen, Mailprogramm, Spammails"
 
 .*AP2*
 * E-Mail des Kursleiters, Motivation der Teilnehmer
 * _Minispiel_ "Tippübungen" (Antwort auf E-Mail)
 * Antwort senden
 
-.*AP3*
+.*Georg*
 * Urlaubserzählungen
 * _Minispiel_ "PC-Handy-Übertragung Reihenfolge"
 * Übertragung der Fotos auf PC, anschauen der Fotos, Bildbearbeitung
