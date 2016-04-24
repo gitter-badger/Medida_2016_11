@@ -1,4 +1,6 @@
 :author: Gruppe 11 - LAuTLOS
+:figure-caption: Darstellung
+:imagesdir: ./img
 :group_id: 11
 :group_title: LAuTLOS
 :group_names: Linda Doan, Seffanie Macak, Leon Brandt, André Gleißner, Thomas Görlach, Georg Graßnick

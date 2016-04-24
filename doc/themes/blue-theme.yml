@@ -43,6 +43,8 @@ heading:
   line_height: 1.2
   margin_bottom: $vertical_rhythm
   font_family: Hind
+caption:
+    font_style: normal
 link:
   font_color: #002FA7
 outline_list:
