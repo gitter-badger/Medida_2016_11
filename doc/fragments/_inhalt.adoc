@@ -14,7 +14,7 @@ Abendkurs) und die ersten schon wieder gehen wollen, fällt einem der Teilnehmer
 auf, dass sein Handy eine neue Nachricht hat. Er zeigt es den anderen und damit
 auch unserem Hauptcharakter, der jetzt die erste kleine Aufgabe erfüllen muss:
 Er muss aus der Liste der Appsymbole das richtige auswählen (Mailsymbol leuchtet
-auf oder blinkt, evtl. auf zweiter Seite). Wenn nach einiger Zeit nichts passiert
+auf oder blinkt, eventuell auf zweiter Seite). Wenn nach einiger Zeit nichts passiert
 gibt eine Leitfigur (ein sprechendes Gebiss) entsprechende Hinweise wie man
 weiterkommen kann.
 
@@ -68,8 +68,8 @@ mögliche Einbindung in die Handlung wäre, dass einer der Teilnehmer erwähnt, 
 seinen Umgang mit dem PC mit so einem Spiel gelernt hat und es den anderen
 Teilnehmern demonstriert).
 
-In dem Bildbearbeitungsprogramm gibt es u.a. ein Ausschneiderwerkzeug und der Nutzer
-muss einen gewünschten Bereich der erhalten bleiben soll markieren. Hat er diesen
+In dem Bildbearbeitungsprogramm gibt es unter anderem ein Ausschneidewerkzeug und der Nutzer
+muss einen gewünschten Bereich, der erhalten bleiben soll markieren. Hat er diesen
 korrekt gefunden muss er auf ein Speichersymbol klicken, dem Bild dabei einen
 geeigneten Namen geben und anschließend im Mailprogramm den Button zum Anhang
 hinzufügen finden, die richtige Datei auswählen und die Mail schließlich abschicken.

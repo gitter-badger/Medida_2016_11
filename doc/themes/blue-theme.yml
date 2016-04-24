@@ -46,7 +46,7 @@ heading:
 caption:
     font_style: normal
 link:
-  font_color: #002FA7
+  font_color: #163B7A
 outline_list:
   indent: $base_font_size * 1.5
 sidebar:

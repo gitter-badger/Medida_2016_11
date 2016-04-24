@@ -21,9 +21,9 @@
 .*Thomas*
 * Intro mit Namenseingabe
 * Animation Handynachricht, Einleitung
-* _Minispiel_ "E-Mail öffnen, Mailprogramm, Spammails"
+* _Minispiel_ "E-Mail öffnen, Mailprogramm, Spammails"
 
-.*AP2*
+.*Leon*
 * E-Mail des Kursleiters, Motivation der Teilnehmer
 * _Minispiel_ "Tippübungen" (Antwort auf E-Mail)
 * Antwort senden
