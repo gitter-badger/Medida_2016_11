@@ -1,19 +1,20 @@
 lang: ruby
 rvm:
 - 2.2
-branches:
-  only:
-  - doc
 before_install:
 - gem install asciidoctor
 - gem install --pre asciidoctor-pdf
 before_script:
 - chmod +x ".travis/build_doc.sh"
-- chmod +x ".travis/push.sh"
 script:
 - ".travis/build_doc.sh"
-after_success:
-- ".travis/push.sh"
-env:
-  global:
-    secure: N9YC2gzSshFaVvyUOMXB2x/pyI5Riqix3X3MmotN66wKS5Ku7p/qGo4Vp9ThG+IUlKfkw1JCII5tZaPumD5uUpfWRcYDG1gXfr/sCgo52L5kMQMqawEtsP93dF1ooeoElyUGGWga+ZLXFayThifYNc0kKogW4lt2IRGSDWU/d59GA/HdsiKeCARFj/IwRqOAxoUUhwq1YTG08+JVE2DZvP95v4YxrboiwbCRA2w6o5Q0envGZJrWCiZt0SAvxA/TwLzxscpkNOP3xRBmnxiooIOSgDohak/ihS3TGMM5gxqXPdBIDfP/XNX2xINMUHyijrwES2Cd40Pum/62qyke7bbTuob1qMNGaKnsThMgf0DY/KE9Z3qjZAkG3iOEn5QSklLjrI5l7PqfzXX9Rw9bxo41b+4jFwwFtGTdKSWt4ihZ+JZ5MsHU+nrKXT8m1CzJorAeo4YNJyFUdLhPS5LRQ2nS3+jRPq3iQByrTKJ3bHY4oUdsGQVpJdS0gBG7aiq+FVRP6NrWMrrO/w4gm6Tt+GjitEaGq855VfI9T8I2Mc7IyYHeRIEGAv+sPdXUvaEYKaJqoIfi5YKFhB4+tPib4M4MAX+GuTtxEERM76JtXTVifmKqhKkZbieJ20e8UBv7uLFcn3Ra9p0g/cZBxyPl1K3gZTxDKfjPQZ50qoJCrHg=
+deploy:
+  provider: releases
+  api_key:
+    secure: CEPEljvg7UsRQ06bKfDoUJOCmSZYFGN+OZFimZ/J2s2jwVKCX8V7eo3xO+VflXJ8jJpVJfTnq96zda/DKeNQm0naBREDswQiulGocikDQ5LzrhNC617rdryBp7/CGBT6EZoOwCUMqjtG5UYewE59ukyQT+ZLgJczG3lzdtJg2VkGJuLxVQT9A6AyGMu2bALEWb+1dxt0Yq0UnLAPW8hB0jUkTQ1PC0hyPxXRpKcqKAXo89MYFxTTAojmJM9n69Vtdp5SJhAtH7t0s8XbOtYm5XIZNtrfF49wvkmunyVDGBn1iDSwZeLcFOTQaaS7XJSEVhzyXmcGv04laZ7UQtn876mvXhqZ+Ku+R9rL1u1gtbizgkg1E4AOnXHVbsetvm2WQEW3Di6Vf/LW3/0cafm6jwWG9x6OC+c+Htwjx12nJXpnr8qH6fVWkkoWG3K8cKndRCpTLAlxHJGUcOQ5rUuflyrJft1SPENc3nc0IRYyi09UEHBuNaPuTTTW7XTqdLfBPcSAKlfnsG6FmgmBqcwZjnOmHVEmorbo7IGVJzMDE9/h0YOXHzNMRrZmNA5uuJQfpwI9gt0oHXP2Y7y6WtdRJfoJIe+HeBgpbwutLBhZATZZoLmYNU8gMGjp7MeQls+L1nTJDkVPkw3ej6nwS0lni+TNWmNdFEaN2FKjQy8OLoA=
+  file: ./doc/pdf/Dokumentation.zip
+  skip_cleanup: true
+  on:
+    repo: fried-ice/Medida_2016_11
+    tags: true
+    all_branches: true
