@@ -1,5 +1,8 @@
 == Zeitplan
 
+.Zeitplan
+image::Zeitplan.png[Zeitplan]
+
 .*10.04.2016* - *Teilziel 1*
 * Gruppenname
 * Gruppenleiter

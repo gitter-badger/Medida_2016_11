@@ -1,5 +1,9 @@
 ﻿== Zielstellung
 
+__Zielgruppe__
+
+Menschen mit wenig Erfahrung im Umgang mit Computern
+
 __Kognitive Ziele__
 
 Dem Spieler sollen in unterhaltsamer Weise Wissen zum Thema Computer/ IT- Benutzung vermittelt werden. +
