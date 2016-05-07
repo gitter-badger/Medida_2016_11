@@ -1,0 +1,38 @@
+= Protokoll {changedate}
+include::fragments/_head.adoc[]
+:changedate: 04.05.2016
+
+== Organisatorisches
+
+- [ ] Tutorentreffen
+- [*] internes Treffen
+
+.*Teilnehmer:*
+* [ ] Thomas Görlach
+* [*] Linda Doan
+* [*] André Gleißner
+* [*] Stefanie Macak
+* [*] Leon Brandt
+* [*] Georg Graßnick
+
+
+== Ergebnisse seit dem letzten Meeting
+
+* Layoutskizzen von verschiedenen Szenen aufgestellt
+* Hintergrundbilder aufgenommen
+
+== Ziele bis zum nächsten Meeting
+
+* Layoutvorschlag fertigstellen
+
+== Nächstes Teilziel: 3 | 08.05.16
+
+Layoutvorschlag: ::
+- [*] vorläufige Startseite designen
+- [ ] erste Szenenbilder in geplanter Detailfülle erzeugen
+- [ ] verwendete Icons/Buttons u.Ä. erzeugen
+- [*] Platzierung und Aufbau der Menüs
+
+
+== Bemerkungen
+* keine
