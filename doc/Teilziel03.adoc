@@ -5,20 +5,13 @@ include::fragments/_head.adoc[]
 == Layoutvorschlag
 
 .Layoutvorschlag - Titelbild
-image::Layout_1.jpg[Layout - Titelbild]
+image::Layout1.jpg[Layout - Titelbild]
 
-<<<<
 .Layoutvorschlag - Einstiegsszene
-image::Layout_2.jpg[Layout - Einstiegsszene]
+image::Layout2.jpg[Layout - Einstiegsszene]
 
-<<<<
 .Layoutvorschlag - Computerkabinett
-image::Layout_3.jpg[Layout - Computerkabinett]
+image::Layout3.jpg[Layout - Computerkabinett]
 
-<<<<
 .Layoutvorschlag - Minispiel Tastenregen
-image::Layout_4.jpg[Layout - Minispiel Tastenregen]
-
-<<<<
-.Layoutvorschlag - Minispiel Kopieren
-image::Layout_5.jpg[Layout - Minispiel Kopieren]
+image::Layout4.jpg[Layout - Minispiel Tastenregen]
