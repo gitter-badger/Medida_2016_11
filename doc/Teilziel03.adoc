@@ -1,0 +1,24 @@
+= Teilziel 03
+include::fragments/_head.adoc[]
+:changedate: 08.05.2016
+
+== Layoutvorschlag
+
+.Layoutvorschlag - Titelbild
+image::Layout_1.jpg[Layout - Titelbild]
+
+<<<<
+.Layoutvorschlag - Einstiegsszene
+image::Layout_2.jpg[Layout - Einstiegsszene]
+
+<<<<
+.Layoutvorschlag - Computerkabinett
+image::Layout_3.jpg[Layout - Computerkabinett]
+
+<<<<
+.Layoutvorschlag - Minispiel Tastenregen
+image::Layout_4.jpg[Layout - Minispiel Tastenregen]
+
+<<<<
+.Layoutvorschlag - Minispiel Kopieren
+image::Layout_5.jpg[Layout - Minispiel Kopieren]
