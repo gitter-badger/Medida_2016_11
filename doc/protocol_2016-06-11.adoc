@@ -1,0 +1,38 @@
+= Protokoll {changedate}
+include::fragments/_head.adoc[]
+:changedate: 11.05.2016
+
+== Organisatorisches
+
+- [*] Tutorentreffen
+- [ ] internes Treffen
+
+.*Teilnehmer:*
+* [*] Thomas Görlach
+* [*] Linda Doan
+* [*] André Gleißner
+* [*] Stefanie Macak
+* [*] Leon Brandt
+* [*] Georg Graßnick
+
+
+== Ergebnisse seit dem letzten Meeting
+
+* Icons erzeugt
+* erste Szenenbilder
+* Motive für Hintergrundbilder aus der Story festgelegt
+
+== Ziele bis zum nächsten Meeting
+
+* Fotos für Hintergrundbilder aufnehemen
+* Framework für die Spielumsetzung festlegen
+
+== Nächstes Teilziel: 3 | 05.06.16
+
+Prototyp: ::
+- [ ] Design
+- [ ] mindestens ein Minispiel
+- [ ] Story ausschnittsweise
+
+== Bemerkungen
+* keine
