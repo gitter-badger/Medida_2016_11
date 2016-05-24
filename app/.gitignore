@@ -1,0 +1,29 @@
+# General gitignore file
+
+# binary game assets
+*.jpg
+*.bmp
+*.png
+*.gif
+*.ico
+*.ogg
+*.mp3
+*.opus
+*.mp4
+*.mkv
+*.avi
+*.mov
+
+# unity editor created meta files
+*.meta
+
+# compiled libraries and objects
+*.dll
+*.so
+*.sa
+*.o
+
+# unnessesary folders
+/Temp
+/Library
+/obj
